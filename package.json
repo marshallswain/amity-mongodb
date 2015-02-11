@@ -1,7 +1,7 @@
 {
   "name": "amity-mongodb",
-  "version": "0.0.1",
-  "description": "Create and manage MongoDB databases with FeathersJS.",
+  "version": "0.0.2",
+  "description": "An Amity Adapter for MongoDB.",
   "main": "lib/amity-mongodb.js",
   "repository": {
     "type": "git",

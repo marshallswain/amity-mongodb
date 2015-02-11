@@ -24,7 +24,7 @@ npm install amity-mongodb --save
 ```
 
 ## Usage
-For now, please see the example in the index.js file of the [Amity project](https://github.com/marshallswain/Amity)
+Please see the index.js file of the [AmityApp project](https://github.com/marshallswain/AmityApp)
 
 ## License
 
@@ -33,5 +33,3 @@ For now, please see the example in the index.js file of the [Amity project](http
 ## Author
 
 [Marshall Thompson](https://github.com/marshallswain)
-
-Based on [feathers-mongoose](https://github.com/feathersjs/feathers-mongoose) by [Glavin Wiechert](https://github.com/Glavin001)
