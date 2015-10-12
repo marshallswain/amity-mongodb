@@ -36,9 +36,10 @@
   },
   "homepage": "https://github.com/marshallswain/amity-mongodb",
   "dependencies": {
-    "mongoskin": "*",
+    "feathers-mongo-collections": "^0.0.1",
     "feathers-mongo-databases": "^0.0.2",
-    "feathers-mongo-collections": "^0.0.1"
+    "mongo-uri": "^0.1.2",
+    "mongoskin": "*"
   },
   "readmeFilename": "README.md"
 }
