@@ -1,6 +1,6 @@
 {
   "name": "amity-mongodb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Amity Adapter for MongoDB.",
   "main": "lib/amity-mongodb.js",
   "repository": {
@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/marshallswain/amity-mongodb",
   "dependencies": {
-    "mongoskin":"*",
+    "mongoskin": "*",
     "feathers-mongo-databases": "^0.0.1",
     "feathers-mongo-collections": "^0.0.1"
   },
