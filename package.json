@@ -1,6 +1,6 @@
 {
   "name": "amity-mongodb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Amity Adapter for MongoDB.",
   "main": "lib/amity-mongodb.js",
   "repository": {
